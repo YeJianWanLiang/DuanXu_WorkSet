@@ -1,0 +1,21 @@
+.functionBar {
+box-sizing: border-box;
+  padding: 15px 0 0 0;
+  display: flex;
+}
+.dataTable {
+  box-sizing: border-box;
+  padding: 15px 0 0 0;
+  height: 100%;
+}
+.tableTag {
+  box-sizing: border-box;
+  padding: 15px 0 0 0;
+}
+.tabBar {
+  box-sizing: border-box;
+  padding: 15px 0 0 0;
+}
+.functionBarInTab {
+  display: flex;
+}
